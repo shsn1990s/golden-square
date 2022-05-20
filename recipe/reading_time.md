@@ -23,16 +23,16 @@ returns time
 Make a list of examples of what the method will take and return.
 
 # 1
-reading_time("one two three four five six seven eight") 
+reading_time(Eight words will be passed through) 
 # => 1
 # 2
-reading_time(1000 words will be individually entered)
+reading_time(1000 words will be passed through)
 # => 5
 # 3
-reading_time(500 words will be individually entered)
+reading_time(500 words will be passed through)
 # => 3
 # 4
-reading_time(10,000 words will be individually entered)
+reading_time(10,000 words will be passed through)
 # => 50
 
 4. Implement the Behaviour
